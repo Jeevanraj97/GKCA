@@ -1,0 +1,84 @@
+.body{
+font-family: 'Questrial', "sans-serif" !important;
+}
+.navbar{
+	color: blue !important;
+	background-color: #fff;
+	box-shadow: 0px 2px 7px 0px rgba(126,244,255,0.2);
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(0,0,0,.5);
+    border-color: rgba(0,0,0,0) !important;
+}
+
+@media (max-width: 575.98px){
+.navbar-brand .navbar-logo{
+	max-height: 30px !important;
+	max-width: 50px !important;
+}
+}
+
+.navbar-toggler-icon{
+	background-image: url(ascending-bars.svg) !important;
+	transform: rotate(-90deg);
+	width: 25px !important;
+	height: 25px !important;
+
+}
+
+.navbar-brand .navbar-logo{
+
+	width: 80px !important;
+	height: 50px !important;
+}
+
+.carousel-inner{
+max-height: 475px !important;
+}
+
+.flex-container{
+margin:80px 0px 80px 0px;
+	width: 100%;
+	<!--border: 2px solid black;-->
+}
+.head{
+	padding-top:100px;
+	font-size: 50px;
+	text-align: center;
+	color: #7EBFFF;
+	font-weight: bold !important;
+	font-family: 'Questrial', sans-serif;"
+}
+.flex-item{
+	border-radius: 20px;
+	Width:300px;
+	height: 450px;
+	margin-right:50px; 
+	background-color: White;
+	box-shadow: 0px 0px 15px 0px rgba(126,244,255,0.5); 
+	color: #7EBFFF;
+	font-weight: bold !important;
+	font-family: 'Questrial', sans-serif;
+}
+
+.title{
+	padding-top: 10px;
+	color: #7EBFFF;
+	font-weight: bold !important;
+	font-family: 'Questrial', sans-serif;
+}
+.flex-item1{
+	border-radius: 20px;
+	Width:300px;
+	height: 450px;
+	background-color: White;
+	box-shadow: 0px 0px 15px 0px rgba(126,244,255,0.5); 
+	color: #7EBFFF;
+	font-weight: bold !important;
+	font-family: 'Questrial', sans-serif;
+}
+
+
+----------------------------------------------------------
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
